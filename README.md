@@ -1,3 +1,3 @@
 aerospace engineer > pickleball pro > systems hacker.<br>
-i build tools that set you free.<br>
-risc-v. linux. nixos. rust. 🏴‍☠️
+risc-v. linux. nixos. rust. 日本語.<br>
+i build free tools. 🏴‍☠️
